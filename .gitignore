@@ -32,3 +32,5 @@ out/
 db/
 *.db
 *.sqlite
+
+package-lock.json

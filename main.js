@@ -7,7 +7,7 @@ const fs = require("fs")
 
 const iconPath = path.join(__dirname, 'assets', 'IconTemplate.png');
 
-let interval = 10000;
+let interval = 5000
 
 // 添加全局变量初始化
 let lastVerificationCode = '';
